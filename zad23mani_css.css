@@ -1,0 +1,25 @@
+p#pogrubienie_mania {
+  font-size: 30px;
+  color: #9A60CB;
+}
+p#pochylona_mania {
+  font-size: 35pt;
+  color: #FEC467;
+}
+p#index_gorny_mania {
+  font-size: 1cm;
+  color: #AEE217;
+}
+p#index_dolny_mania {
+  font-size: 1,5cm;
+  color: RGB(96%,246%,223%);
+}
+p#mono_mania {
+  font-size: 40px;
+  color: #2EE267;
+}
+p#powiekszenie_mania {
+  color: #5E4299;
+}
+p#pomniejszenie_mania {
+  color: RGB(79%,63%,23%);
